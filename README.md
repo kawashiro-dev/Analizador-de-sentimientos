@@ -94,10 +94,6 @@ La versión en Python es un script que utiliza la biblioteca `nltk` (Natural Lan
 
 Este proyecto se distribuye bajo la Licencia MIT. Consulta el archivo `LICENSE` para obtener más detalles.
 
-Okay, aquí tienes un README detallado y profesional para tus dos proyectos de análisis de sentimientos. He evitado incluir fotos, centrándome en la estructura y la claridad del texto.
-
-Markdown
-
 # Analizadores de Sentimientos (JavaScript y Python)
 
 Este repositorio contiene dos implementaciones de un analizador de sentimientos: una en JavaScript para su uso en navegadores web y otra en Python para su uso en scripts y aplicaciones del lado del servidor. Ambas versiones permiten determinar la polaridad emocional de un texto dado, clasificándolo como positivo, negativo o neutro.
