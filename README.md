@@ -42,6 +42,7 @@ La versión en JavaScript es una aplicación web que permite a los usuarios ingr
 ###  Estructura de Archivos
 /
 ├── index.html
+
 └── Analizador de sentimientos.js
 * `index.html`:  La página web principal que contiene la interfaz de usuario.
 * `Analizador de sentimientos.js`:  El código JavaScript que realiza el análisis de sentimientos.
